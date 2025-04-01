@@ -28,7 +28,7 @@
 
 <img src="https://raw.githubusercontent.com/shamanshetty/shamanshetty/output/snake.svg" alt="Snake animation" />
 
-###
+
 
   
 

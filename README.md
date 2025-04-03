@@ -8,10 +8,10 @@
 </div>
 
 ###
-
-<img align="center" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlb24waGk1eDdrdnNwNHR1MHdpejg0Y2VsNmRxamJ1NGtldWZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
-
 <div align="left">
+<img align="right" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlb24waGk1eDdrdnNwNHR1MHdpejg0Y2VsNmRxamJ1NGtldWZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
+
+
   <a href="https://dev.to/shaman_shetty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
   </a>

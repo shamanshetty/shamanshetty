@@ -1,4 +1,4 @@
-<h3 align="left" style="font-family= "Gill Sans Extrabold", sans-serif" >Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
+<h3 align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;">Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
 
 
 

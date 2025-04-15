@@ -1,6 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
-<h3 align="left" style="font-family: 'Segoe UI', Arial, sans-serif;">Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
+<h3 align="left" ">Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)

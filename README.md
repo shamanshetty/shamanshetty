@@ -3,7 +3,7 @@
 <h3 align="left" style="font-family: 'Segoe UI', Arial, sans-serif;">Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
 <div align="left">
 </div>

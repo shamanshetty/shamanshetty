@@ -1,7 +1,7 @@
 
 <h3 align="left" ">Hi 👋! My name is Shaman and I'm a 19 year old web developer from Mumbai.</h3>
 
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USERNAME)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
 <div align="left">

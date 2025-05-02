@@ -6,7 +6,6 @@
 </div>
 
 
-
 ###
 <div align="left">
 <img align="right" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlb24waGk1eDdrdnNwNHR1MHdpejg0Y2VsNmRxamJ1NGtldWZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
